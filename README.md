@@ -1,16 +1,16 @@
-## Hi there 👋
+### Olá, Hebertt Rafael aqui! 👨‍💻
 
-<!--
-**Hebertt-Rafael/Hebertt-Rafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de desenvolvimento Kotlin para Android e apaixonado por tecnologia.
+### 👀 Estou a procura de uma vaga no momento 👀
 
-Here are some ideas to get you started:
+## ⚡ Minhas Habilidades
+- Desenvolvimento Android (Java e Kotlin)
+- Arquiteturas MVC, MVP, MVVM
+- APis com Retrofit, Coroutines
+- Git e GitHub
+- Firebase, SQLite e SQL
+- Scrum
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Entre em contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hebertt-rafael-593a28351/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/HE.RAFAEL45)
